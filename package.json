@@ -1,0 +1,20 @@
+{
+  "name": "fcc-request-header-parser-api-challenge",
+  "description": "FreeCodeCamp Request Header Parser Microservice API challenge",
+  "licence": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "useragent": "^2.3.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aivarsliepa/fcc-request-header-parser-api-challenge"
+  }
+}
